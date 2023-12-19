@@ -1,3 +1,5 @@
+// // Hero Level Sorter Challenge by Digital Innovation One 
+
 let heroName = "Lord of the sea"
 let xpHero = 11000
 let xp
