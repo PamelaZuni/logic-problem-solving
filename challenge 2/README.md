@@ -1,4 +1,4 @@
-## Ranked Match Calculator
+## Ranked Match Calculator Challenge 2
 
  **What should be used**
  

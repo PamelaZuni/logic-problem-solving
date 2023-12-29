@@ -1,4 +1,4 @@
-## Hero Level Sorter Challenge 🚀
+## Hero Level Sorter Challenge 1 🚀
 
 ## Objective
 Create a variable to store a hero's name and amount of experience (XP), then use a decision structure to present some of the messages below:
