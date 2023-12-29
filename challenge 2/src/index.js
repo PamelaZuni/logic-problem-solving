@@ -33,6 +33,9 @@ function heroResult(heroName, numberVictories, numberDefeats) {
 
 heroResult("Shazam",110,22)
 
+//The hero Shazam has a total of 88 victories at the Diamond level
+
+
 
 
 
