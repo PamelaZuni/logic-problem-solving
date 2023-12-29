@@ -1,7 +1,6 @@
-## Hero Level Sorter Challenge
+## Hero Level Sorter Challenge 🚀
 
 ## Objective
-
 Create a variable to store a hero's name and amount of experience (XP), then use a decision structure to present some of the messages below:
 
 * If XP is less than 1,000 = Iron
@@ -18,5 +17,5 @@ Create a variable to store a hero's name and amount of experience (XP), then use
 * Operators
 * Conditionals
 
-## Output
+## Output Message
 At the end, a message should be displayed: "The Hero named {name} is at the level of {level}"
