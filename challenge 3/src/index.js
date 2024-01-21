@@ -1,4 +1,4 @@
-//Challenge 3 - Writing the  classes ## Writing the Classes of a Game
+//Challenge 3 - Writing the classes Classes of a Game
 
 class Superhero {
   constructor(heroName, heroAge, heroType ){
@@ -28,7 +28,7 @@ class Superhero {
     
     return attack
   }
-  
+
 
   
 }
